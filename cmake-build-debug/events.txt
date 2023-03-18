@@ -1,0 +1,5 @@
+2 ElectricCastle Iulie Bontida 0 
+3 JazzInThePark Septembrie ParculCentral 0 
+4 Neversea Iulie Constanta 0 
+5 TargulDeCraciun Decembrie Centru 0 
+1 Untold August2022 Cluj 1 1 

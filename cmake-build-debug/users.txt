@@ -1,0 +1,6 @@
+4 Ioana 14 ioana2009@hotmail.com ParolaIoana 0 0 
+5 Mircea 45 mircea.pop@gmail.com mircea$%#@ 0 0 
+2 Mihai 19 mihai@gmail.com parola123 3 3 2 3 0 
+3 Ana 22 anaaremere@gmail.com anaana111 4 3 2 3 6 0 
+6 Mircel 68 mircelvoinicul@gmail.com mircel123456 2 3 1 0 
+1 Alex 20 alex@yahoo.com alex2020 3 3 2 6 0 
